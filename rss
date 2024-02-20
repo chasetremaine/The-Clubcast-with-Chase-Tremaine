@@ -1,0 +1,19 @@
+<rss version="2.0">
+    <channel>
+        <title>The Clubcast with Chase Tremaine</title>
+        <link>https://friends.chasetremaine.com</link>
+        <image>
+            <url>http://chasetremaine.com/wp-content/uploads/2024/02/FC1-min.jpeg</url>
+            <title>The Clubcast with Chase Tremaine</title>
+        </image>
+        <description>The official podcast for the Friends Club, made with and for members of the club. Each episode takes a look at one of Chase Tremaine's original songs as well as one of the guest's favorite songs, albums, or artists.</description>
+        <language>en-us</language>
+        <copyright>Chase Tremaine copyright 2024</copyright>
+        <item>
+          <title>001. Wolves at the Gate & "The Things We Can't Plan" with Paige Tremaine</title>
+          <link>https://www.dropbox.com/scl/fi/zlsntm4jfq3lpn1xvh7e4/Clubcast-001-Wolves-at-the-Gate-and-The-Things-We-Can-t-Plan-with-Paige-Tremaine.mp3?rlkey=nykuz738bcrnq678z2ww8j2tx&dl=1</link>
+          <pubDate>20 Feb 2024 08:00:00 CDT</pubDate>
+          <description>Chase and his wife Paige sit down to discuss Paige's favorite band Wolves at the Gate, how they met at a WATG concert, and how they continue to bond over the band's music.</description>
+        </item>
+    </channel>
+</rss>
